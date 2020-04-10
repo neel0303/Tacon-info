@@ -1,0 +1,405 @@
+.DIV1{
+	float: left;
+	width: 655px;
+	height: 660px;
+	margin : 5px 0 5px 5px;
+	background: #4B0082 url(images_lec2/metroentrance.jpg) no-repeat center /cover;
+	position: relative;
+}
+
+.DIV2{
+	float: left;
+	width: 330px;
+	height: 660px;
+	margin: 5px;
+	background-color: #000000;
+	position:relative;
+}
+
+.DIV21{
+	float: left;
+	width: 330px;
+	height:330px;
+	background: #90EE90 url(images_lec2/lady.jfif) no-repeat center /cover;
+
+}
+.DIV22{
+	float: left;
+	width: 325px;
+	height: 160px;
+	margin: 5px ;
+	background-color: #000000;
+
+}
+.DIV221{
+	float: left;
+	width: 160px;
+	height: 160px;
+	margin: 0 5px 0 0;
+	background: #808000 url(images_lec2/google_chrome.png) no-repeat center /cover;
+	position: relative;
+}
+.DIV222{
+	float: left;
+	width: 160px;
+	height: 160px;
+	background: #EEE8AA url(images_lec2/google_drive.png) no-repeat center /cover;
+	position: relative;
+}
+.DIV23{
+	float: left;
+	height: 155px;
+	width: 330px;
+	margin: 5px 0px 0px 0px;
+	background:#FF4500 url(images_lec2/wl_picture_gallery.png) no-repeat center /cover;
+
+}
+.DIV31{
+	clear: both;
+	height: 160px;
+	width: 985px;
+	margin: 5px;
+	background-color: #000000;
+	position: relative;
+}
+
+
+
+
+
+
+
+
+.DIV312{
+	float: left;
+	height: 160px;
+	width: 160px;
+	margin: 0 5px 0 0;
+	background: #9ACD32 url(images_lec2/red_hat.png) no-repeat center /cover;
+	position: relative;
+}
+.DIV313{
+	float: left;
+	height: 160px;
+	width: 160px;
+	margin: 0 5px 0 0;
+	background: #FF00FF url(images_lec2/safari.png) no-repeat center /cover;
+	position: relative;
+}
+.DIV314{
+	float: left;
+	height: 160px;
+	width: 160px;
+	margin: 0 5px 0 0;
+	background: #FF00FF url(images_lec2/winrar_alt.png) no-repeat center /cover;
+	position: relative;
+}
+.DIV315{
+	float: left;
+	height: 160px;
+	width: 160px;
+	margin: 0 5px 0 0;
+	background: #FF00FF url(images_lec2/winscp.png) no-repeat center /cover;
+	position: relative;
+}
+.DIV316{
+	float: left;
+	height: 160px;
+	width: 160px;
+	margin: auto;
+	background: #FF00FF url(images_lec2/winscp_alt.png) no-repeat center /cover;
+	position: relative;
+}
+
+.DIV311{
+	float: left;
+	height: 160px;
+	width: 160px;
+	margin: 0 5px 0 0;
+	background: #808080 url(images_lec2/wireshark.png) no-repeat center /cover;
+	position: relative;
+}
+
+.DIV32{
+	clear: both;
+	height: 160px;
+	width: 985px;
+	margin: 5px;
+	background-color: #000000;
+	position: relative;
+}
+.DIV321{
+	float: left;
+	height: 160px;
+	width: 325px;
+	margin: 0 5px 0 0;
+	background: #808080 url(images_lec2/Gallery_pic.png) no-repeat center /cover ;
+	position: relative;
+}
+.DIV322{
+	float: left;
+	height: 160px;
+	width: 160px;
+	margin: 0 5px 0 0;
+	background: #808080  url(images_lec2/ws_ftp.png) no-repeat center /cover;
+	position: relative;
+}
+.DIV323{
+	float: left;
+	height: 160px;
+	width: 160px;
+	margin: 0 5px 0 0;
+	background: #808080  url(images_lec2/roxio_creator.png) no-repeat center /cover;
+	position: relative;
+}
+.DIV324{
+	float: left;
+	height: 160px;
+	width: 160px;
+	margin: 0 5px 0 0;
+	background: #808080  url(images_lec2/samsung_intellistudio.png) no-repeat center;
+	background-size: 50%;
+	position: relative;
+}
+.DIV325{
+	float: left;
+	height: 160px;
+	width: 160px;
+	margin: auto;
+	background: #808080  url(images_lec2/samsung_rawconverter.png) no-repeat center /cover;
+	position: relative;
+}
+.DIV4{clear: both;
+	height: 160px;
+	width: 985px;
+	margin: 5px;
+	background-color: #000000;
+	position: relative;
+}
+.DIV41{
+	float: left;
+	height: 160px;
+	width: 160px;
+	margin: 0 5px 0 0;
+	background:  #808080  url(images_lec2/winamp_alt.png) no-repeat center /cover;
+	position: relative;
+}
+.DIV42{
+	float: left;
+	height: 160px;
+	width: 160px;
+	margin: 0 5px 0 0;
+	background:  #808080  url(images_lec2/windows_dvd_maker.png) no-repeat center /cover;
+	position: relative;
+}
+.DIV43{
+	float: left;
+	height: 160px;
+	width: 160px;
+	margin: 0 5px 0 0;
+	background:  #808080  url(images_lec2/windows_mediacenter.png) no-repeat center /cover;
+	position: relative;
+}
+.DIV44{
+	float: left;
+	height: 160px;
+	width: 490px;
+	margin: auto;
+	background:  #808080 url(images_lec2/Montreal.jpg) no-repeat top /cover;
+	position: relative;
+}
+.DIV5{
+	clear: both;
+	height: 160px;
+	width: 985px;
+	margin: 5px;
+	background-color: #000000;
+	position: relative;
+}
+.DIV51{
+	float: left;
+	height: 160px;
+	width: 325px;
+	margin: 0 5px 0 0;
+	background:  #808080 url(images_lec2/avengersendgame_lob_mas_mob_01.jpg) no-repeat top /cover;
+	position: relative;
+}
+.DIV52{
+	float: left;
+	height: 160px;
+	width: 325px;
+	margin: 0 5px 0 0;
+	background:  #808080  url(images_lec2/adobe_flash.png) no-repeat center /cover;
+	position: relative;
+}
+.DIV53{
+	float: left;
+	height: 160px;
+	width: 325px;
+	margin: auto;
+	background:  #808080  url(images_lec2/adobe_reader.png) no-repeat center /cover;
+	position: relative;
+}
+
+
+.DIV311 .div311{
+	bottom: 10px;
+	left: 10px;
+}
+.DIV311 span {
+    display: block;
+    position: absolute;
+    color: white;
+}
+
+
+.DIV312 .div312{
+	bottom: 5px;
+	left: 10px;
+}
+.DIV312 span {
+    display: block;
+    position: absolute;
+    color: white;
+}
+
+
+.DIV313 .div313{
+	bottom: 10px;
+	left: 10px;
+}
+.DIV313 span {
+    display: block;
+    position: absolute;
+    color: white;
+}
+
+
+.DIV314 .div314{
+	bottom: 10px;
+	left: 10px;
+}
+.DIV314 span {
+    display: block;
+    position: absolute;
+    color: white;
+}
+
+
+.DIV315 .div315{
+	bottom: 10px;
+	left: 10px;
+}
+.DIV315 span {
+    display: block;
+    position: absolute;
+    color: white;
+}
+
+
+.DIV316 .div316{
+	bottom: 10px;
+	left: 10px;
+}
+.DIV316 span {
+    display: block;
+    position: absolute;
+    color: white;
+}
+
+
+.DIV317 .div317{
+	bottom: 10px;
+	left: 10px;
+}
+.DIV317 span {
+    display: block;
+    position: absolute;
+    color: white;
+}
+
+
+.DIV322 .div322{
+	bottom: 10px;
+	left: 10px;
+}
+.DIV322 span {
+    display: block;
+    position: absolute;
+    color: white;
+}
+
+
+.DIV323 .div323{
+	bottom: 10px;
+	left: 10px;
+}
+.DIV323 span {
+    display: block;
+    position: absolute;
+    color: white;
+}
+
+
+.DIV41 .div41{
+	bottom: 10px;
+	left: 10px;
+}
+.DIV41 span {
+    display: block;
+    position: absolute;
+    color: white;
+}
+
+
+.DIV42 .div42{
+	bottom: 10px;
+	left: 10px;
+}
+.DIV42 span {
+    display: block;
+    position: absolute;
+    color: white;
+}
+
+
+.DIV43 .div43{
+	bottom: 10px;
+	left: 10px;
+}
+.DIV43 span {
+    display: block;
+    position: absolute;
+    color: white;
+}
+
+.DIV221 .div221{
+	bottom: 5px;
+	left: 10px;
+}
+.DIV221 span {
+    display: block;
+    position: absolute;
+    color: white;
+}
+
+.DIV222 .div222{
+	bottom: 5px;
+	left: 10px;
+}
+.DIV222 span {
+    display: block;
+    position: absolute;
+    color: white;
+}
+
+.DIV321 .div321{
+	bottom: 5px;
+	left: 10px;
+}
+.DIV321 span {
+    display: block;
+    position: absolute;
+    color: white;
+}
+
